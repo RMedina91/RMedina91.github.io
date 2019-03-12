@@ -61,7 +61,6 @@ body, html {
 </head>
 
 <div class="bg-text">
-</body>
 
 <h1><b><u>
 Roof Drafting, LLC
@@ -96,8 +95,4 @@ Email:<br>
 </form>
 </font>
 
-
-		<CENTER style="background-color:white"><font size="2" color="black"><P><H3> Location: 1036 Prosperidad St. Alamo,TX 78516<BR>E-mail:r.medinaengineering@gmail.com<BR>Cell:956-502-8785<BR>Alternative:956-460-4524 </H3></P>
-
-
-
+<CENTER style="background-color:white"><font size="2" color="black"><P><H3> Location: 1036 Prosperidad St. Alamo,TX 78516<BR>E-mail:r.medinaengineering@gmail.com<BR>Cell:956-502-8785<BR>Alternative:956-460-4524 </H3></P>
