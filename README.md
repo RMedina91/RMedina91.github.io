@@ -69,7 +69,7 @@ Roof Drafting, LLC
 <h2>Guaranteed 24 hour turnaround time!
 <br> * No ladders 
 <br> * No cars 
-<br> * No risks
+<br> * No risks<br>
 <br>The service provided by Roof Drafting, LLC is an alternative to the conventional way of measuring a roof. We can generate a roof report consisting of roof diagram, total number of squares, and other necessary dimenisons!</h2>
 
 <p><h2><u>
@@ -91,7 +91,6 @@ Email:<br>
   <input type="email" style="text-align: center" name="email">
   <br><br>
   <input type="submit" value="Submit">
-  <input type="reset">
 </form>
 </font>
 
