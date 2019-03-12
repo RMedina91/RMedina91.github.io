@@ -6,6 +6,7 @@
 </HEADER>
 
 <head>
+<body>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 
@@ -52,16 +53,12 @@ body, html {
   text-align: center;
 }
 
- 
-</style>
-</head>
-
-
-<body>
-
 <div class="bg-image img1"></div>
 <div class="bg-image img2"></div>
 <div class="bg-image img3"></div>
+
+</style>
+</head>
 
 <div class="bg-text">
 </body>
