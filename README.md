@@ -71,15 +71,6 @@ Roof Drafting, LLC
 <br> * No risks
 <br></br> The service provided by Roof Drafting, LLC is an alternative to the conventional way of measuring a roof. We can generate a roof report consisting of roof diagram, total number of squares, and other necessary dimenisons!</h2>
 
-
-<head>
-<style>
-p {
-  border: 1px solid white;
-}
-</head>
-</style>
-<body>
 <p><h2><u>
 Request a Roof Report
 </u></h2>
@@ -99,13 +90,12 @@ Email:<br>
   <input type="email" style="text-align: center" name="email">
   <br><br>
   <input type="submit" value="Submit">
-  <input type="reset"></p>
-</body>
+  <input type="reset">
 </form>
 </font>
 
 
-		<CENTER style="background-color:white"><font size="2" color="black"><P><H3> Location: 1036 Prosperidad St. Alamo,TX 78516<BR>E-mail:r.medinaengineering@gmail.com<BR>Cell:956-502-8785<BR>Alternative:956-460-4524 </font></H3></P></CENTER></div>
+		<CENTER style="background-color:white"><font size="2" color="black"><P><H3> Location: 1036 Prosperidad St. Alamo,TX 78516<BR>E-mail:r.medinaengineering@gmail.com<BR>Cell:956-502-8785<BR>Alternative:956-460-4524 </H3></P></CENTER></div>
 
 
 </HTML>
